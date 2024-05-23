@@ -1,8 +1,8 @@
 ## Hi there, Visitors!! Thanks for stopping by my Github Profile..👋
 
 
-- 🔭 I’m currently working on equipping myself with technical skills related to Machine Learning, Neural Network and Deep Learning.
-- 🌱 I’m currently learning SAS and Machine Learning.
+- 🔭 I’m currently working on equipping myself with technical skills👩‍💻 related to Machine Learning, Neural Network and Deep Learning.
+- 🌱 I’m currently learning SAS and Machine Learning💻. I'm actually deep-diving🏊‍♀️
 - 👯 I’m looking 🔍👓 to collaborate on interesting Data Science Projects where I get to showcase my true potential👩‍🎓 and technical prowess.🏋️💪
 - 🤔 I’m looking for help with connecting me to people who are open to me joining their teams as a Data Wizard🧙🪄
 - 💬 Ask me about my projects.. Feel free to reach me out via mail or Linkedin.
