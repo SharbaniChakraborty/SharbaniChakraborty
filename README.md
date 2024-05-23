@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning SAS and Machine Learning💻. I'm actually deep-diving🏊‍♀️
 - 👯 I’m looking 🔍👓 to collaborate on interesting Data Science Projects where I get to showcase my true potential👩‍🎓 and technical prowess.🏋️💪
 - 🤔 I’m looking for help with connecting me to people who are open to me joining their teams as a Data Wizard🧙🪄
-- 💬 Ask me about my projects.. Feel free to reach me out via mail or Linkedin.
+- 💬 Ask me about my projects.. Feel free to reach me via mail or Linkedin.
 - 🤩 My Areas Of Proficiency: Data Analysis🏇 with Python & SQL, Data Visualization📊 with Python, Machine Learning Using Python
 - 📫 How to reach me: Either via mail: sharbanichakraborty0109@gmail.com or via Linkedin: www.linkedin.com/in/sharbani01apr
 - 😄 Pronouns: she/her
