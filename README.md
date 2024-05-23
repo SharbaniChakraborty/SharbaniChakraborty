@@ -1,4 +1,4 @@
-## Hi there, Visitors!! Thanks for stopping by my Github Profile..👋
+## Hey Visitors!! Thanks for stopping by my Github Profile..👋
 
 
 - 🔭 I’m currently working on equipping myself with technical skills👩‍💻 related to Machine Learning, Neural Network and Deep Learning.
