@@ -1,5 +1,7 @@
 ## Hey Visitors!! Thanks for stopping by my Github Profile..👋
 
+![NewTeamGIF](https://github.com/SharbaniChakraborty/SharbaniChakraborty/assets/170112191/0ac621ab-4149-42b1-bf6f-f8508d720a7e)
+
 
 - 🔭 I’m currently working on equipping myself with technical skills👩‍💻 related to Machine Learning, Neural Network and Deep Learning.
 - 🌱 I’m currently learning SAS and Machine Learning💻. I'm actually deep-diving🏊‍♀️
